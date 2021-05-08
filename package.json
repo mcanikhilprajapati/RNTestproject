@@ -9,7 +9,7 @@
   "dependencies": {
     "immutability-helper": "^3.0.0",
     "immutable": "^3.8.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "md5": "^2.2.1",
     "prop-types": "latest",
     "react": "16.8.6",
